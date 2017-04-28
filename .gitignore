@@ -1,2 +1,3 @@
 *.ovr
 results/wy2016/monthly/disalexi-wy-2016-corr.tif.aux.xml
+data/*
